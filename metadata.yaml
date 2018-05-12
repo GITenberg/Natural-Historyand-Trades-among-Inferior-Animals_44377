@@ -1,0 +1,33 @@
+_repo: Natural-Historyand-Trades-among-Inferior-Animals_44377
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44377-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hawks, Francis L. (Francis Lister)
+    aliases:
+    - Philip, Uncle
+    - Hawks, Francis Lister
+    birthdate: 1798
+    deathdate: 1866
+    gutenberg_agent_id: '3748'
+    url: http://www.gutenberg.org/2009/agents/3748
+description: ''
+gutenberg_issued: '2013-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44377'
+  lccn: '2009367651'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Insects -- Juvenile literature'
+- !lcc 'QL'
+- !lcsh 'Natural history -- Juvenile literature'
+- !lcsh 'Animals -- Juvenile literature'
+title: "Natural History\r\nOr, Uncle Philip's Conversations with the Children about\
+  \ Tools and Trades among Inferior Animals"
+url: http://www.gutenberg.org/ebooks/44377
