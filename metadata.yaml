@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '3748'
     url: http://www.gutenberg.org/2009/agents/3748
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44377#Natural-Historyand-Trades-among-Inferior-Animals
 gutenberg_issued: '2013-12-06'
 gutenberg_type: Text
 identifiers:
